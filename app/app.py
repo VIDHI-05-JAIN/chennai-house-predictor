@@ -18,7 +18,7 @@ st.set_page_config(
 # ==============================
 # 📦 LOAD MODEL & DATA
 # ==============================
-MODEL_PATH = "/Users/admin/Desktop/ML_Project/chennai-house-predictor/model/house_price_pipe.pkl"
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "../model/house_price_pipe.pkl")
 DATA_PATH = "data/train-chennai-sale.csv"
 
 if not os.path.exists(MODEL_PATH):
