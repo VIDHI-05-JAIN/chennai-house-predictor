@@ -1,0 +1,30 @@
+{
+  "numeric_medians": {
+    "INT_SQFT": 1373.0,
+    "N_BEDROOM": 1.0,
+    "N_BATHROOM": 1.0,
+    "N_ROOM": 4.0,
+    "QS_ROOMS": 3.5,
+    "QS_BATHROOM": 3.5,
+    "QS_BEDROOM": 3.5,
+    "QS_OVERALL": 3.5,
+    "REG_FEE": 349486.0,
+    "COMMIS": 127628.0,
+    "SALES_PRICE": 10335050.0,
+    "INF_PRICE": 16875153.68,
+    "1+0.04": 1.04,
+    "POWER(Z,Y)": 1.601032219
+  },
+  "categorical_modes": {
+    "PRT_ID": "P00001",
+    "AREA": "Chrompet",
+    "DATE_SALE": "06/10/09",
+    "SALE_COND": "Adj Land",
+    "PARK_FACIL": "Yes",
+    "DATE_BUILD": "02/07/87",
+    "BUILDTYPE": "House",
+    "UTILITY_AVAIL": "NoSewer ",
+    "STREET": "Paved",
+    "MZZONE": "RL"
+  }
+}
